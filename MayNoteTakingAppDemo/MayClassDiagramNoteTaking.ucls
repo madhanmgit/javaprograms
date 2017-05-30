@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.0" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="com.full.notes.model.Collaborator" project="MayNoteTakingAppDemo" 
+    file="/MayNoteTakingAppDemo/src/com/full/notes/model/Collaborator.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="100" x="100" y="47"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="com.full.notes.controller.NoteApplication" project="MayNoteTakingAppDemo" 
+    file="/MayNoteTakingAppDemo/src/com/full/notes/controller/NoteApplication.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="113" x="232" y="51"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <enumeration id="3" language="java" name="com.full.notes.model.Color" project="MayNoteTakingAppDemo" 
+    file="/MayNoteTakingAppDemo/src/com/full/notes/model/Color.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="225" width="119" x="128" y="139"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </enumeration>  
+  <class id="4" language="java" name="com.full.notes.model.ListItem" project="MayNoteTakingAppDemo" 
+    file="/MayNoteTakingAppDemo/src/com/full/notes/model/ListItem.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="315" width="160" x="395" y="68"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
